@@ -11,4 +11,6 @@ HOTO(Maybe?) :
 5. go to localhost:8888 <br />
 Why localhost? : because notification doesn't work without server(maybe?)
 
-Actually I have no idea about javascript and node and html, I've just googled and attached it.
+Actually I have no idea about javascript and node and html, I've just googled and attached it.<br /><br />
+When notification doesn't work while playing game:<br />
+Check Focus Assist in Win10 Settings. <br />

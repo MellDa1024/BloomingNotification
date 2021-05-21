@@ -1,0 +1,28 @@
+h1{
+    color: rgb(41, 32, 32);
+    font-family: sans-serif;
+    border: 3px solid #000000;
+    background-color: transparent;
+}
+
+button {
+    width: 60px;
+    height: 32px;
+    color: rgb(58, 43, 43);
+    cursor: pointer;
+    font-family: sans-serif;
+    font-size: large;
+    font-weight: bold;
+    border-radius: 5px;
+    transition-duration: 0.3s;
+}
+
+button.start {
+    border: 3px solid #30dd30;
+    background-color: #30dd30;
+}
+
+button.pause {
+    border: 2px solid #e22d2d;
+    background-color: #e22d2d;
+}

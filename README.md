@@ -23,6 +23,7 @@ https://untitledtblog.tistory.com/107
 
 Actually I don't know about javascript and node and html well, I've just googled it.
 
+
 When notification doesn't work while playing game:
 
-Check Focus Assist in Win10 Settings.
+Disable Focus Assist in Win10 Settings.

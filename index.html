@@ -35,7 +35,7 @@
             function PrintTime() {
                 var d = new Date();
                 document.getElementsByTagName("h1")[0].innerHTML = d;
-                if ((d.getMinutes()==44 || d.getMinutes()==14) && (d.getSeconds()==0 || d.getSeconds()==30 || d.getSeconds()==50)){
+                if ((d.getHours()>9) && (d.getMinutes()==44 || d.getMinutes()==14) && (d.getSeconds()==0 || d.getSeconds()==30 || d.getSeconds()==50)){
                     notify(d.getSeconds());
                 };
             }

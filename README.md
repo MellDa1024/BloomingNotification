@@ -1,7 +1,7 @@
 # BloomingNotification
 Notice 3 times on 14, 44 minutes to prepare Blooming Forest Event.
 
-Works only when the website is open
+Works only when the website is open.
 
 ## Before Installing
 Needs Node.js and npm
@@ -16,7 +16,9 @@ Why localhost? : because notification doesn't work without server(maybe?)
 
 ## TMI
 Got Helped By :
+
 https://hongku.tistory.com/94?category=799783
+
 https://untitledtblog.tistory.com/107 
 
 Actually I don't know about javascript and node and html well, I've just googled it.

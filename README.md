@@ -1,5 +1,5 @@
 # BloomingNotification
-Needs Node  <br /> <br />
+Needs Node.js <br /> <br />
 Got Helped By : <br />
 https://hongku.tistory.com/94?category=799783 <br />
 https://untitledtblog.tistory.com/107 <br /> <br />

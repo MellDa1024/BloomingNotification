@@ -1,7 +1,7 @@
 # BloomingNotification
 Notice 3 times on 14, 44 minutes to prepare Blooming Forest Event.
 
-## Need
+## Before Installing
 Needs Node.js and npm
 
 ## Installing
@@ -20,4 +20,5 @@ https://untitledtblog.tistory.com/107
 Actually I have no idea about javascript and node and html, I've just googled and attached it.
 
 When notification doesn't work while playing game:
+
 Check Focus Assist in Win10 Settings.
